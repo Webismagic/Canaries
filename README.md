@@ -13,4 +13,4 @@ https://nbviewer.org/github/Webismagic/Canaries/blob/6534cdfad8e85fb89c21395f85b
 
 #### Machine Learning on distance, depth data
 
-https://github.com/Webismagic/Canaries/blob/da3854fff972a84781cbce302b68cf2b4303f272/ML-algorithmes.ipynb
+https://nbviewer.org/github/Webismagic/Canaries/blob/da3854fff972a84781cbce302b68cf2b4303f272/ML-algorithmes.ipynb
