@@ -2,7 +2,7 @@
 
 ## Jupyter notebook on nbviewer.org
 
-### Distance between 2 points (Long,Lat)
+#### Distance between 2 points (Long,Lat)
 https://nbviewer.org/github/Webismagic/Canaries/blob/401c2abfdc75dee0eb69c990bca8b070027930b9/bsp.ipynb
 
 ### Maps and distance, depth comparaison between species
